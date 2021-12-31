@@ -1,0 +1,14 @@
+{
+  "name": "pixllheads",
+  "version": "1.0.0",
+  "description": "PIxLLHeads (1/1) ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "subink",
+  "license": "ISC",
+  "dependencies": {
+    "@pixi/sound": "^4.1.0"
+  }
+}

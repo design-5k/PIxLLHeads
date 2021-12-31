@@ -1,0 +1,17 @@
+body {
+    padding: 0%;
+    margin: 0 auto;
+    width: auto;
+    height: 100%;
+    overflow: hidden;
+}
+
+.background {
+    padding: 0%;
+    margin: 0 auto;
+    width: auto;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    z-index: 1;
+}
